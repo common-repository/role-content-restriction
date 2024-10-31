@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Role Content Restriction\n"
+"POT-Creation-Date: 2016-02-01 15:13+0100\n"
+"PO-Revision-Date: 2016-02-01 15:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-role-content-restriction.php:74
+msgid "Restrict access to this content"
+msgstr ""
+
+#: class-role-content-restriction.php:75
+msgid "Display this content only for ..."
+msgstr ""
+
+#: class-role-content-restriction.php:237
+msgid "Restricted content! Please log in to access this page."
+msgstr ""
+
+#: class-role-content-restriction.php:238
+msgid "You do not have permission to access this content!"
+msgstr ""
+
+#: role-content-restriction.php:38
+msgid "Role Content Restriction"
+msgstr ""
